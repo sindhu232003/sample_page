@@ -1,9 +1,9 @@
-// Correct default export
-export default function Page() {
+
+export default function Home() {
   return (
     <div>
-      <h1>Hello Next.js Page</h1>
-      <p>This is working fine now!</p>
+      <h1>Welcome to My Website!</h1>
+      <p>This is the homepage.</p>
     </div>
   )
 }
